@@ -1,4 +1,4 @@
-<!doctype html public>
+<!doctype html>
 <html>
 <head>
 </head>
